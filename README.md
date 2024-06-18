@@ -39,5 +39,5 @@ Here's something about me you might 🤷‍♂️ be interested to know.
 <br><br><br><br><br>
 
 ![ignore](https://komarev.com/ghpvc/?username=ashblend17)
-_(ignore)_
+_(Broken. Ignore)_
 
