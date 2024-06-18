@@ -3,8 +3,8 @@ Here's something about me you might 🤷‍♂️ be interested to know.
 - 🛠️ I'm a Tech Nomad. I like to tinker with everyting.
 - 👷‍♂️ I'm doing something today, something completely different tomorrow.
 - 👨‍💻 I like _Tech_, mostly.
-- 📱 When I don't like _Tech_, I play _Games_ and scroll _Social media_.
-- 🎮 When I don't like _Games_  and _Social media_, I go out and _Travel_.
+- 🎮 When I don't like _Tech_, I play _Games_ and scroll _Social media_.
+- ⛰️ When I don't like _Games_  and _Social media_, I go out and _Travel_.
 - 👨‍💻 When I'm done _Traveling_, I play with _Tech_.
 - 🚩 In my free time, apart from the above cycle, I'm stuck in leetcode, codechef, codeforces, HTB, TryHackMe and participate in contests and CTFs.
 - 🤝 If you're stuck in the same cycle, maybe we'll collide somewhere.
@@ -36,7 +36,8 @@ Here's something about me you might 🤷‍♂️ be interested to know.
 <a href="https://codeforces.com/profile/methCook101"><img src="https://img.shields.io/badge/-Codeforces-05122A?style=flat&logo=Codeforces"></a>
 <a href="https://www.codechef.com/users/ashblend17"><img src="https://img.shields.io/badge/-Codechef-05122A?style=flat&logo=codechef"></a>
 
+<br><br><br><br><br>
 
-
-
+![ignore](https://komarev.com/ghpvc/?username=ashblend17)
+_(ignore)_
 
