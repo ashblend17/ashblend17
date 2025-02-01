@@ -30,7 +30,7 @@ Here's something about me you might 🤷‍♂️ be interested to know.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-### Socials
+### Profiles
 <a href="https://www.linkedin.com/in/ashblend17"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=LinkedIn"></a>
 <a href="https://leetcode.com/u/methCook101/"><img src="https://img.shields.io/badge/-Leetcode-05122A?style=flat&logo=Leetcode"></a>
 <a href="https://codeforces.com/profile/methCook101"><img src="https://img.shields.io/badge/-Codeforces-05122A?style=flat&logo=Codeforces"></a>
