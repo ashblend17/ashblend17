@@ -9,7 +9,7 @@ Here's something about me you might 🤷‍♂️ be interested to know.
 - 🚩 In my free time, apart from the above cycle, I'm stuck in leetcode, codechef, codeforces, HTB, TryHackMe and participate in contests and CTFs.
 - 🤝 If you're stuck in the same cycle, maybe we'll collide somewhere.
 
-###  Tech Stack
+###  Tech
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
